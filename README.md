@@ -169,8 +169,7 @@ Performance was evaluated using the following metrics:
 ## References
 
 1. TextGAN Paper: [https://arxiv.org/pdf/1708.07836.pdf](https://arxiv.org/pdf/1708.07836.pdf)  
-2. Dataset 1: [Source Link](#)  
-3. Dataset 2: [Source Link](#)
+2. Dataset 1: [[Source Link](#)  ](https://github.com/imayda/turkish-hate-speech-dataset-2)
 
 ---
 
