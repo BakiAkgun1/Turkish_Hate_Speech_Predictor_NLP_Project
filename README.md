@@ -51,6 +51,7 @@ The dataset is composed of Turkish tweets labeled as hate speech or non-hate spe
    - Eliminated common meaningless words.
 4. **Lemmatization**:
    - Converted words to their root forms for better feature representation.
+![image](https://github.com/user-attachments/assets/1e215491-9d82-4cee-a708-dc62a8b1c48e)
 
 ---
 
@@ -96,6 +97,7 @@ The following models were implemented and optimized:
    - Batch Size: 64
    - Used for capturing complex data relationships.
    - Monitored validation and training losses for performance.
+![image](https://github.com/user-attachments/assets/5c9d797d-d69e-4c4a-a006-4ae07206aac4)
 
 ### Dimensionality Reduction:
 - **TruncatedSVD**:
@@ -153,6 +155,8 @@ Performance was evaluated using the following metrics:
 - **F1-Score**: 0.7928
 
 ### Model Comparisons:
+![image](https://github.com/user-attachments/assets/364e4cd3-70ad-4a97-a956-f64133528a3d)
+
 - **XGBoost**:
   - Outperformed all models in accuracy, precision, recall, and F1-score.
 - **Gradient Boosting**:
@@ -169,7 +173,7 @@ Performance was evaluated using the following metrics:
 ## References
 
 1. TextGAN Paper: [https://arxiv.org/pdf/1708.07836.pdf](https://arxiv.org/pdf/1708.07836.pdf)  
-2. Dataset 1: (https://github.com/imayda/turkish-hate-speech-dataset-2)
+2. Dataset 1:  https://github.com/imayda/turkish-hate-speech-dataset-2
 
 ---
 
