@@ -1,5 +1,3 @@
-### GitHub Readme (Plain Text)
-
 # Hate Speech Detection on Turkish Tweets
 
 This repository implements **Detection of Hate Speech on Turkish Tweets Using Machine Learning** techniques. It includes preprocessing Turkish tweets, handling imbalanced datasets, text representation, synthetic data generation using TextGAN, and training multiple models to identify hate speech.
