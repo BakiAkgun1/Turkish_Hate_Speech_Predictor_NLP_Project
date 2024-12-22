@@ -175,6 +175,3 @@ Performance was evaluated using the following metrics:
 1. TextGAN Paper: [https://arxiv.org/pdf/1708.07836.pdf](https://arxiv.org/pdf/1708.07836.pdf)  
 2. Dataset 1:  https://github.com/imayda/turkish-hate-speech-dataset-2
 
----
-
-This readme provides a comprehensive overview of the project. Let me know if additional details or changes are needed!
